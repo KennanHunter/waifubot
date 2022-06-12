@@ -1,6 +1,10 @@
 {
-	"extends": ["prettier", "eslint:recommended"],
-	"plugins": ["prettier"],
+	"extends": [
+		"prettier",
+		"eslint:recommended",
+		"plugin:@typescript-eslint/recommended"
+	],
+	"plugins": ["prettier", "@typescript-eslint"],
 	"rules": {
 		"prettier/prettier": ["error"]
 	},

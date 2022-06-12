@@ -1,6 +1,5 @@
 name = "waifubot"
-main = "./src/server.js"
-type = "javascript"
+main = "./dist/server.js"
 compatibility_date = "2022-02-26"
 
 account_id = "c21e5aacc2d33c52c2b6589adbe56dc0"
