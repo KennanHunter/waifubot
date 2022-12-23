@@ -1,0 +1,17 @@
+# Packages
+node_modules/
+package_lock.json
+
+# Log files
+logs/
+*.log
+
+# Miscellaneous
+.tmp/
+.vscode/**/*
+!.vscode/extensions.json
+.env
+
+.vercel
+
+dist
