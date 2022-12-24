@@ -1,1 +1,0 @@
-This is where resources, such as images, can be hosted.
