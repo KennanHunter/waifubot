@@ -28,6 +28,6 @@ export default class SleepCommand extends SlashCommand {
 			return "Specify a user to put to sleep";
 		}
 
-		return `${target.username}!`;
+		return `${JSON.stringify(target)}!`;
 	}
 }
